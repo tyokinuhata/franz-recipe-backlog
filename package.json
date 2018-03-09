@@ -1,6 +1,6 @@
 {
-  "id": "backlog",
-  "name": "Backlog",
+  "id": "chatbox",
+  "name": "chatbox",
   "version": "1.0.0",
   "description": "Backlog will make your daily tasks easier and more enjoyable, and lead your team to more enthusiasm for smoother project success.",
   "main": "index.js",
